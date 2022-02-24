@@ -1,16 +1,18 @@
-### Hi there 👋
+# H3mrt
 
-<!--
-**H3rmt/H3rmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?style=flat&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Language-Go-blue?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
+![TS](https://img.shields.io/badge/Language-typescript-blue?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Language-Rust-blue?style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Image](https://github-readme-stats.vercel.app/api?username=H3rmt&theme=gotham&count_private=true&show_icons=true)
+
+### Personal
+![Image](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=H3rmt&theme=gotham&langs_count=14&layout=compact&count_private=true)
+
+### With Organisations
+![Image](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=H3rmt&theme=gotham&langs_count=14&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html)
