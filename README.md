@@ -7,6 +7,8 @@
 ![Rust](https://img.shields.io/badge/Language-Rust-blue?style=flat&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php&logoColor=white)
+![Svelte](https://img.shields.io/badge/Language-svelte-blue?style=flat&logo=svelte&logoColor=white)
+![C#](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=Csharp&logoColor=white)
 
 
 ![Image](https://github-readme-stats.vercel.app/api?username=H3rmt&theme=gotham&count_private=true&show_icons=true)
