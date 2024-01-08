@@ -1,14 +1,15 @@
 # H3mrt
 
-![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?style=flat&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/Language-Rust-blue?style=flat&logo=rust&logoColor=white)
 ![TS](https://img.shields.io/badge/Language-typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Language-Go-blue?style=flat&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-blue?style=flat&logo=jvm&logoColor=white)
 ![PHP](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Language-svelte-blue?style=flat&logo=svelte&logoColor=white)
 ![C#](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=Csharp&logoColor=white)
+![C](https://img.shields.io/badge/Language-C-blue?style=flat&logo=C&logoColor=white)
 
 
 ![Image](https://github-readme-stats.vercel.app/api?username=H3rmt&theme=gotham&count_private=true&show_icons=true)
