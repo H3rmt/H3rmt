@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=H3rmt&count_private=true&show_icons=true&theme=radical"></td>
-    <td><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=H3rmt&langs_count=14&layout=compact&count_private=true&theme=radical"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3rmt&langs_count=14&layout=compact&count_private=true&theme=radical"></td>
   </tr>
   <tr>
     <td colspan=2>
