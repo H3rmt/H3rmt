@@ -26,7 +26,7 @@
   <tr>
     <td colspan=2>
       <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Enrico&api_domain=wakapi.h3rmt.zip&theme=radical&custom_title=Wakapi%20Week%20Stats&layout=compact&langs_count=12">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Enrico&api_domain=wakapi.h3rmt.zip&theme=radical&custom_title=Wakapi%20Stats&layout=compact&langs_count=12">
       </div>
     </td>
   </tr>
