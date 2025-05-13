@@ -1,7 +1,7 @@
 # H3mrt
 
 <a href="https://wakapi.h3rmt.zip">
-  <img align="center" src="https://img.shields.io/endpoint?url=https://wakapi.h3rmt.zip/api/compat/shields/v1/Enrico/interval:30_days&label=coding last 30d">
+  <img align="center" src="https://wakapi.h3rmt.zip/api/badge/Enrico/interval:30_days?label=coding%20last%2030d">
 </a>
 <a href="https://wakapi.h3rmt.zip">
   <img align="center" src="https://wakapi.h3rmt.zip/api/badge/Enrico/interval:today?label=today">
