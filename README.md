@@ -1,4 +1,4 @@
-# H3mrt
+# H3rmt
 
 <p align="center">
   <a href="https://wakapi.h3rmt.zip"><img src="https://wakapi.h3rmt.zip/api/badge/Enrico/interval:all_time?label=coding%20all%20time"></a>&nbsp;&nbsp;&nbsp;&nbsp;
