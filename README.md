@@ -10,13 +10,13 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H3rmt&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="./profile/stats.svg" alt="GitHub Stats">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3rmt&langs_count=10&layout=compact&count_private=true&theme=radical" alt="Top Languages">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Enrico&api_domain=wakapi.h3rmt.zip&theme=radical&custom_title=Wakapi%20Stats&layout=compact&langs_count=12" alt="Wakapi Stats">
+  <img src="./profile/wakatime.svg" alt="Wakapi Stats">
 </p>
