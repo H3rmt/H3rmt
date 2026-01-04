@@ -40,7 +40,7 @@ jobs:
         with:
           card: wakatime
           options: username=Enrico&api_domain=wakapi.h3rmt.zip&theme=radical&custom_title=Wakapi%20Stats&layout=compact&langs_count=12
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
