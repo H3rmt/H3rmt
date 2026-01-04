@@ -1,8 +1,8 @@
 
       <svg
-        width="495"
-        height="240"
-        viewBox="0 0 495 240"
+        width="400"
+        height="120"
+        viewBox="0 0 400 120"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fe428e;
+            fill: #2f80ed;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -21,45 +21,12 @@
             .header { font-size: 15.5px; }
           }
           
-    
-    .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #a9fef7;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .stat { font-size:12px; }
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    .not_bold { font-weight: 400 }
-    .bold { font-weight: 700 }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .icon { fill: #586069 }
+    .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .badge rect { opacity: 0.2 }
   
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7 }
-    #rect-mask rect{
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    .lang-progress{
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    
 
           
       /* Animations */
@@ -80,7 +47,7 @@
         }
       }
     
-          
+          * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
         
@@ -92,8 +59,8 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="494"
-          fill="#141321"
+          width="399"
+          fill="#fffefe"
           stroke-opacity="1"
         />
 
@@ -103,12 +70,24 @@
         transform="translate(25, 35)"
       >
         <g transform="translate(0, 0)">
+      <svg
+        class="icon"
+        x="0"
+        y="-13"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+      >
+        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+      </svg>
+    </g><g transform="translate(25, 0)">
       <text
         x="0"
         y="0"
         class="header"
         data-testid="header"
-      >Wakapi Stats</text>
+      >github-readme-stats</text>
     </g>
       </g>
     
@@ -118,219 +97,31 @@
           transform="translate(0, 55)"
         >
           
-    <svg x="0" y="0" width="100%">
-      
-      <mask id="rect-mask">
-      <rect x="25" y="0" width="440" height="8" fill="white" rx="5" />
-      </mask>
-      
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="0"
-            y="0"
-            width="160.19250000000002"
-            height="8"
-            fill="#dea584"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="160.19250000000002"
-            y="0"
-            width="74.1675"
-            height="8"
-            fill="#3178c6"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="234.36"
-            y="0"
-            width="39.339000000000006"
-            height="8"
-            fill="#3178c6"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="273.699"
-            y="0"
-            width="28.4115"
-            height="8"
-            fill="#7e7eff"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="302.1105"
-            y="0"
-            width="27.528000000000002"
-            height="8"
-            fill="#cb171e"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="329.6385"
-            y="0"
-            width="26.5515"
-            height="8"
-            fill="#A97BFF"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="356.19"
-            y="0"
-            width="24.691499999999998"
-            height="8"
-            fill="#f34b7d"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="380.8815"
-            y="0"
-            width="20.646000000000004"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="401.52750000000003"
-            y="0"
-            width="20.46"
-            height="8"
-            fill="#292929"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="421.9875"
-            y="0"
-            width="18.785999999999998"
-            height="8"
-            fill="#4F5D95"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="440.7735"
-            y="0"
-            width="17.1585"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="457.932"
-            y="0"
-            width="8.556000000000001"
-            height="8"
-            fill="#f1e05a"
-          />
-        
-      
-    <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 546 hrs 18 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TSX - 252 hrs 59 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 134 hrs 8 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#7e7eff" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nix - 96 hrs 55 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 93 hrs 55 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 90 hrs 30 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 100)">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 84 hrs 19 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Pdf - 70 hrs 29 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 125)">
-      <circle cx="5" cy="6" r="5" fill="#292929" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 69 hrs 49 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 125)">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP - 64 hrs 1 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 150)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 58 hrs 33 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 150)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 29 hrs 8 mins
-      </text>
-    </g>
-  
     
-    </svg>
+
+    <text class="description" x="25" y="-5">
+      <tspan dy="1.2em" x="25">&#9889; Dynamically generated stats for your github readmes</tspan>
+    </text>
+
+    <g transform="translate(30, 45)">
+      <g transform="translate(0, 0)">
+    <g data-testid="primary-lang">
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
+      <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
+    </g>
+    </g><g transform="translate(80.93125, 0)"><g transform="translate(0, 0)">
+      <svg
+        class="icon"
+        y="-12"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+      >
+        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+      </svg>
+    </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">3</text></g></g>
+    </g>
   
         </g>
       </svg>
