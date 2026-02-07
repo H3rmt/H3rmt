@@ -239,7 +239,7 @@
             data-testid="lang-progress"
             x="455.28149999999994"
             y="0"
-            width="9.2535"
+            width="9.3"
             height="8"
             fill="#858585"
           />
@@ -325,7 +325,7 @@
     <g transform="translate(230, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        unknown - 32 hrs 51 mins
+        unknown - 33 hrs 0 mins
       </text>
     </g>
   
