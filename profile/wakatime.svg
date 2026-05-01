@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="147.77700000000002"
+            width="147.5445"
             height="8"
             fill="#dea584"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="147.77700000000002"
+            x="147.5445"
             y="0"
-            width="66.309"
+            width="66.21600000000001"
             height="8"
             fill="#3178c6"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="214.086"
+            x="213.7605"
             y="0"
-            width="35.8515"
+            width="35.805"
             height="8"
             fill="#cb171e"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="249.9375"
+            x="249.56550000000001"
             y="0"
-            width="35.34"
+            width="35.2935"
             height="8"
             fill="#858585"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="285.27750000000003"
+            x="284.85900000000004"
             y="0"
-            width="28.3185"
+            width="28.2255"
             height="8"
             fill="#7e7eff"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="313.596"
+            x="313.08450000000005"
             y="0"
-            width="26.97"
+            width="27.342"
             height="8"
             fill="#f34b7d"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="340.56600000000003"
+            x="340.42650000000003"
             y="0"
-            width="23.436"
+            width="23.3895"
             height="8"
             fill="#A97BFF"
           />
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="364.002"
+            x="363.81600000000003"
             y="0"
-            width="22.2735"
+            width="22.227000000000004"
             height="8"
             fill="#083fa1"
           />
@@ -207,9 +207,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="386.2755"
+            x="386.043"
             y="0"
-            width="21.576"
+            width="21.483"
             height="8"
             fill="#00ADD8"
           />
@@ -217,9 +217,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="407.85150000000004"
+            x="407.526"
             y="0"
-            width="20.2275"
+            width="20.1345"
             height="8"
             fill="#858585"
           />
@@ -227,7 +227,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="428.07900000000006"
+            x="427.6605"
             y="0"
             width="19.2045"
             height="8"
@@ -237,7 +237,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="447.28350000000006"
+            x="446.865"
             y="0"
             width="17.112000000000002"
             height="8"
@@ -283,7 +283,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 104 hrs 15 mins
+        C++ - 105 hrs 55 mins
       </text>
     </g>
   
@@ -318,7 +318,7 @@
     <g transform="translate(25, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Json - 74 hrs 16 mins
+        Json - 74 hrs 20 mins
       </text>
     </g>
   
