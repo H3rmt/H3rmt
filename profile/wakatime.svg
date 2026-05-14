@@ -239,7 +239,7 @@
             data-testid="lang-progress"
             x="447.5624999999999"
             y="0"
-            width="16.9725"
+            width="16.926000000000002"
             height="8"
             fill="#4F5D95"
           />
@@ -325,7 +325,7 @@
     <g transform="translate(230, 150)">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP - 66 hrs 43 mins
+        PHP - 66 hrs 38 mins
       </text>
     </g>
   
