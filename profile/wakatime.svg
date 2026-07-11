@@ -139,7 +139,7 @@
             data-testid="lang-progress"
             x="151.49699999999999"
             y="0"
-            width="61.101000000000006"
+            width="61.1475"
             height="8"
             fill="#3178c6"
           />
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="212.59799999999998"
+            x="212.6445"
             y="0"
             width="38.037"
             height="8"
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="250.635"
+            x="250.6815"
             y="0"
             width="33.5265"
             height="8"
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="284.1615"
+            x="284.20799999999997"
             y="0"
             width="27.2955"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="311.457"
+            x="311.5035"
             y="0"
             width="26.830499999999997"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="338.28749999999997"
+            x="338.33399999999995"
             y="0"
             width="26.784000000000002"
             height="8"
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="365.07149999999996"
+            x="365.11799999999994"
             y="0"
-            width="22.599"
+            width="22.5525"
             height="8"
             fill="#858585"
           />
@@ -297,7 +297,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Pdf - 94 hrs 57 mins
+        Pdf - 94 hrs 41 mins
       </text>
     </g>
   
