@@ -229,7 +229,7 @@
             data-testid="lang-progress"
             x="429.56700000000006"
             y="0"
-            width="17.7165"
+            width="17.6235"
             height="8"
             fill="#858585"
           />
@@ -237,7 +237,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="447.28350000000006"
+            x="447.19050000000004"
             y="0"
             width="16.647000000000002"
             height="8"
@@ -318,7 +318,7 @@
     <g transform="translate(25, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Json - 76 hrs 20 mins
+        Json - 76 hrs 15 mins
       </text>
     </g>
   
