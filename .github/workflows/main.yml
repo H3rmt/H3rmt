@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v7
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&theme=radical
@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=10&layout=compact&count_private=true&theme=radical
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate wakatime card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: wakatime
           options: username=Enrico&api_domain=wakapi.h3rmt.zip&theme=radical&custom_title=Wakapi%20Stats&layout=compact&langs_count=12
