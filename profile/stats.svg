@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Enrico Stemmer&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 636, Total Commits  (last year) : 1043, Total PRs: 390, Total Issues: 145, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 636, Total Commits  (last year) : 1049, Total PRs: 390, Total Issues: 145, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 14.503366870614522;
+        stroke-dashoffset: 14.465029632880297;
       }
     }
   
